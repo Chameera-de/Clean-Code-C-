@@ -34,8 +34,6 @@ Software engineering principles, from Robert C. Martin's book [_Clean Code_](htt
 
 Not every principle herein has to be strictly followed, and even fewer will be universally agreed upon. These are guidelines and nothing more, but they are ones codified over many years of collective experience by the authors of _Clean Code_.
 
-Inspired from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) and [clean-code-php](https://github.com/jupeter/clean-code-php) lists.
-
 # Clean Code .NET
 
 ## Naming
